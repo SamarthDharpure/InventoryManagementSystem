@@ -1,4 +1,4 @@
-# 📦🚚 Inventory Management System
+# 🚚 Inventory Management System
 
 An intuitive, desktop **Inventory Management System** built with **Python (Tkinter)** and **SQL**. This application provides a complete GUI-based solution to manage employees, suppliers, categories, products, sales, and billing — ideal for small retail stores and inventory-based businesses.
 
