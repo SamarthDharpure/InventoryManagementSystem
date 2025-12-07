@@ -1,4 +1,4 @@
-#📦🚚 Inventory Management System
+# 📦🚚 Inventory Management System
 
 An intuitive, desktop **Inventory Management System** built with **Python (Tkinter)** and **SQL**. This application provides a complete GUI-based solution to manage employees, suppliers, categories, products, sales, and billing — ideal for small retail stores and inventory-based businesses.
 
@@ -146,31 +146,31 @@ Open the application window and log in with a valid employee ID (or create an in
 
 ### Login
 
-![Login](images/Login.jpg)
+![Login](![WhatsApp Image 2025-12-08 at 00 15 44_83d5cc73](https://github.com/user-attachments/assets/98ca9f16-2b3b-4aa7-905e-94ab3687e2f8))
 
 ### Dashboard
 
-![Dashboard](images/Dashboard.jpg)
+![Dashboard](![WhatsApp Image 2025-12-08 at 00 15 46_71d1a85b](https://github.com/user-attachments/assets/2d48c696-3eec-4c11-bc8a-4f69e592ad0d))
 
 ### Employee Management
 
-![Employee](images/Employee.jpg)
+![Employee](![WhatsApp Image 2025-12-08 at 00 15 43_ebab1b28](https://github.com/user-attachments/assets/2abd50f1-419c-44ef-8246-b9d11b607e85))
 
 ### Product Management
 
-![Product](images/Product.jpg)
+![Product](![WhatsApp Image 2025-12-08 at 00 15 47_ff2e0499](https://github.com/user-attachments/assets/ffab792e-c9fa-4a2c-88a9-1701fa40248f))
 
 ### Supplier Management
 
-![Supplier](images/Supplier.jpg)
+![Supplier](![WhatsApp Image 2025-12-08 at 00 15 46_0933534b](https://github.com/user-attachments/assets/86a2e0ee-8a6b-4422-88b6-18967d409a82))
 
 ### Sales & Billing
 
-![Sales](images/Sales.jpg)
+![Sales](![WhatsApp Image 2025-12-08 at 00 15 43_27a3330e](https://github.com/user-attachments/assets/a06c46fa-7a47-4578-9658-4e6db1df67db))
 
 ### POS / Shopping View
 
-![Shopping](images/Shopping.jpg)
+![Shopping](![WhatsApp Image 2025-12-08 at 00 15 42_299b1a18](https://github.com/user-attachments/assets/67330101-824d-40e9-845f-3eab39c5beb5))
 
 ---
 
