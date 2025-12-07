@@ -1,4 +1,4 @@
-# Inventory Management System
+#📦🚚 Inventory Management System
 
 An intuitive, desktop **Inventory Management System** built with **Python (Tkinter)** and **SQL**. This application provides a complete GUI-based solution to manage employees, suppliers, categories, products, sales, and billing — ideal for small retail stores and inventory-based businesses.
 
@@ -203,10 +203,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## ⭐ Note
 
-If you want, I can:
-
-* convert this into a one-page project portfolio for GitHub (with badges)
-* create a `requirements.txt` and a basic `database.py` template
-* add scripts to export bills as PDF
-
-Let me know which of these you'd like and I’ll add them to the repo.
+If you like this project, don’t forget to star the repo.
