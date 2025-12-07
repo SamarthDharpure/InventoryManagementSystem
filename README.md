@@ -2,8 +2,6 @@
 
 An intuitive, desktop **Inventory Management System** built with **Python (Tkinter)** and **SQL**. This application provides a complete GUI-based solution to manage employees, suppliers, categories, products, sales, and billing — ideal for small retail stores and inventory-based businesses.
 
----
-
 ## ✨ Features
 
 * ✅ **User Authentication** (Employee login)
@@ -16,15 +14,11 @@ An intuitive, desktop **Inventory Management System** built with **Python (Tkint
 * 🗂 **Bill history viewer** (list of saved bill files)
 * 🎨 Clean, responsive desktop UI using Tkinter + ttk
 
----
-
 ## 📙 Description
 
 **Inventory Management System** is a Python desktop application that simplifies inventory operations — employee records, supplier lists, product catalogs, and point-of-sale billing are all handled through a friendly graphical user interface. The app stores data in a local SQL database (SQLite by default) and provides utilities for generating printable bills, updating stock, and maintaining customer sales records.
 
 This repository contains the full source code, UI assets (icons/screenshots), and instructions to run the app locally.
-
----
 
 ## 🧑🏻‍💻 Tech Stack
 
@@ -43,8 +37,6 @@ This repository contains the full source code, UI assets (icons/screenshots), an
 
 * VS Code / PyCharm
 * Git & GitHub
-
----
 
 ## 📂 Project Structure (example)
 
@@ -73,8 +65,6 @@ Inventory-Management-System/
 ```
 
 > Note: File names above are examples — the actual file names in your repo might differ. Adjust commands accordingly.
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -121,8 +111,6 @@ python inventory_system.py
 
 Open the application window and log in with a valid employee ID (or create an initial employee through the DB if needed).
 
----
-
 ## 🚀 Usage (quick walkthrough)
 
 * **Login**: Enter Employee ID and password to access the system.
@@ -131,16 +119,12 @@ Open the application window and log in with a valid employee ID (or create an in
 * **Sales**: Add customer details, select products, update quantities, apply discount, and generate printable bill files.
 * **View Bills**: Open saved `.txt`/.pdf files from the bill history panel to review or print.
 
----
-
 ## 📊 Highlights & Benefits
 
 * Friendly GUI that reduces manual paperwork for small shops
 * End-to-end workflow: inventory → cart → bill generation
 * Easily portable — runs on any machine with Python and Tkinter
 * Configurable to use a server-based SQL DB if multi-user access is required
-
----
 
 ## 📸 Screenshots
 
@@ -172,8 +156,6 @@ Open the application window and log in with a valid employee ID (or create an in
 
 (![WhatsApp Image 2025-12-08 at 00 15 42_299b1a18](https://github.com/user-attachments/assets/67330101-824d-40e9-845f-3eab39c5beb5)
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you want to add features (multi-user mode, REST API, web frontend), please:
@@ -185,21 +167,15 @@ Contributions are welcome! If you want to add features (multi-user mode, REST AP
 
 Please follow a consistent code style and include tests where applicable.
 
----
-
 ## 🧑‍💻 Author
 
 **Samarth Dharpure**
 
 🌐 [LinkedIn](https://www.linkedin.com/in/samarth-dharpure-88a10b248/) | 💻 [GitHub](https://github.com/SamarthDharpure)
 
----
-
 ## 📜 License
 
 This project is licensed under the MIT License. See `LICENSE` for details.
-
----
 
 ## ⭐ Note
 
